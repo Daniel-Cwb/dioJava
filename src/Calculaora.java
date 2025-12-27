@@ -1,3 +1,9 @@
+
+/**
+* @author Daniel
+* @version 1.0
+* @since 27/12/2025
+ */
 public class Calculaora {
     // Método Calcular
     public static double calcular(double valor1, double valor2, String operacao) {
