@@ -1,6 +1,7 @@
 public class TiposVariaveis {
     public static void main(String[] args) {
         // Tipos primitivos int, byte, short, long, float, double e char
+        char sexo       = 'M';
         byte idade      = 123;
         short ano       = 2025;
         int cep         = 81170755;
