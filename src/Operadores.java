@@ -26,10 +26,10 @@ public class Operadores {
         // -- decrementa o valor em  - 1
         // ! nega o valor de uma expressão booleana
 
-        ++soma;
+        soma++;
         System.out.println("Valor de Soma: " + soma); // print 26
 
-        --soma;
+        soma--;
         System.out.println("Valor de Soma: " + soma);// print 25
 
         // ------ Operador Ternário ------
